@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Foram!</h1>
-<h3 align="center">And my Profile README.md is my Profile README.md. None of your Profile README.md. :laughing: </3>
+<h3 align="center">And my Profile README.md is my Profile README.md. None of your Profile README.md :laughing: </3>
 <h5>(PS. I know this intro is very lame but i simply couldn't come up with something even more lame than that so please bear with me, also for <a href="https://st1.bollywoodlife.com/wp-content/uploads/2018/07/Daisy-Shah-Gif.gif?impolicy=Medium_Resize&w=1200&h=800" target="blank">reference</a>)</h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fsojitra" alt="fsojitra" /> </p>
 
